@@ -1,6 +1,6 @@
 # lostnfound_app
 
-A new Flutter project.
+My Flutter project.
 
 ## Getting Started
 
