@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287326020953",
+    "project_id": "signin-example-5e558",
+    "storage_bucket": "signin-example-5e558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287326020953:android:d8a939b09e6b27b38d5848",
+        "android_client_info": {
+          "package_name": "com.example.lostnfound_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxHRUfbbOOU_-1Xy8H4W-_FN6lAC2FGw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
